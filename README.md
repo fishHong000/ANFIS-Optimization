@@ -8,14 +8,14 @@ Deliverable:
 
 1) A complete comparison between the original model and the optimized model.
 
-The evaluation criterions:
+  The evaluation criterions:
 
-For the regression problem – MAPE, MSE, RMSE, NRMSE
+  For the regression problem – MAPE, MSE, RMSE, NRMSE
 
-For the classification problem – accuracy, recall, precision, F-measure
+  For the classification problem – accuracy, recall, precision, F-measure
 
  
 
 2) Codes in a PDF file
 
-Hint: Adaptive Neural Fuzzy Inference System (ANFIS)
+  Hint: Adaptive Neural Fuzzy Inference System (ANFIS)
